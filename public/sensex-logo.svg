@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Sensex logo">
+  <defs>
+    <linearGradient id="sensex-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f766e"/>
+      <stop offset="100%" stop-color="#022c22"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="16" fill="url(#sensex-bg)"/>
+  <text x="32" y="28" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#ecfeff">SENSEX</text>
+  <path d="M16 42h8l4-8 5 10 6-14 9 12" fill="none" stroke="#5eead4" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
