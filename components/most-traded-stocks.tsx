@@ -163,7 +163,6 @@ export function MostTradedStocks() {
                         ) : (
                           <TrendingDown className="w-3 h-3" />
                         )}
-                        {(stock.regularMarketChangePercent || 0) >= 0 ? "+" : ""}
                         {formatPercentage(stock.regularMarketChangePercent || 0)}
                       </div>
                     </div>
